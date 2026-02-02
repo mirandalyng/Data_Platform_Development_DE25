@@ -75,3 +75,14 @@ Exempel: https://www.google.com/search?q =bananas&rlz=1C5CHFA_enSE1097SE1099&oq=
 - Used for data validation
 - Facilitates conversion of JSON -> Python Objects
 - Best practice - (seperated from its own package)
+
+#### BaseModel
+
+- Invcludes 'BaseModel' within class parameters
+- Base class , used for creating model/object with pre-values
+- Helps to validate
+- A base class for creating Pydantic models.
+
+## Union
+
+- parameter with multiple data types

@@ -2,5 +2,9 @@ from pydantic import BaseModel
 
 
 class UserSchema(BaseModel):
-    usename: str
+    username: str
     password: str
+
+
+class UserSchemaResponse(BaseModel):
+    username: str
