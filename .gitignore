@@ -1,0 +1,13 @@
+
+.DS_store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mappar för virtuella miljöer
+.venv/
+venv/
+env/
